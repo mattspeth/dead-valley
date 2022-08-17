@@ -16,7 +16,7 @@
 
 body {
   font-family: Impact, Helvetica, sans-serif;
-  background-color: #888;
+  background-color: rgb(10, 10, 10);
 }
 
 a {
@@ -29,9 +29,9 @@ a {
   margin-left: auto;
   margin-right: auto;
   position:relative;
-  width:900px;
-  height:600px;
-  border:5px solid black; 
+  width:1200px;
+  height:700px;
+  border:5px solid rgb(31, 31, 31); 
   overflow: hidden;
   border-radius: 5px;
   -moz-border-radius: 5px; 
@@ -48,8 +48,8 @@ a {
   display:none;
   top:0px;
   left:0px;
-  width:900px;
-  height:600px;
+  width:1200px;
+  height:700px;
   z-index:1000;
 }
 
@@ -107,11 +107,11 @@ a {
 
 #title {
   color: #ddd;
-  font-size:600%;
-  margin-top:80px;
-  margin-left:100px;
-  margin-bottom:20px;
-  color: #202c2d;
+  font-size:900%;
+  text-align: center;
+  margin-top:50px;
+  margin-bottom:auto;
+  color: rgb(31, 31, 31);
   text-shadow:
     0 1px #808d93,
     -1px 0 #cdd2d5,
@@ -134,13 +134,15 @@ a {
 #graphic {
   float: left;
   clear: right;
-  margin-left: 200px;
+  margin-top: 40px;
+  margin-left: 323px;
+  margin-right: auto;
 }
 
 #menu {
   position:absolute;
-  right: 220px;
-  top: 360px;
+  right: 25px;
+  top: 475px;
 }
 
 #menu.center {
