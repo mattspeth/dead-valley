@@ -142,7 +142,7 @@ a {
 #menu {
   position:absolute;
   right: 25px;
-  top: 475px;
+  bottom: 0px;
 }
 
 #menu.center {
@@ -346,8 +346,8 @@ a {
 
 #sprites {
   position:absolute;
-  width:900px;
-  height:600px;
+  width:1200px;
+  height:700px;
   -moz-transform-style: preserve-3d;
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
@@ -364,7 +364,7 @@ a {
   visibility: hidden;
 }
 
-#background { position:relative; background:#93803A; width:900px; height:600px; overflow:hidden; z-index: -1; }
+#background { position:relative; background:#93803A; width:1200px; height:700px; overflow:hidden; z-index: -1; }
 .tile { position:absolute; width:60px; height:60px; background-color:#000; background-image:url(../assets/tiles.png); background-position:60 0px; }
 
 #lower-right { position:absolute; z-index:600; right:5px; bottom:5px; cursor:default; }
