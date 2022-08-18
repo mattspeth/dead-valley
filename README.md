@@ -1,9 +1,17 @@
-Dead Valley
-===========
+Dead Valley Redux
 
 Escape from Zombie-infested Dead Valley in this HTML5 Grand Theft Auto style Game.
 
 Working on tweaking UI elements that are bothersome, increasing game area for larger modern monitors and screens.  Changing some in game assets to simplify inventory, tone of the game.  More of a mod than a full-blown game fork.
+
+===========
+
+Running the Game
+
+Opening index.html locally in a browser will not work; you will need to set up a web server. 
+
+Easy solution for Chrome is Web Server for Chrome:
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
 
 ===========
 
@@ -13,12 +21,7 @@ http://www.deadvalleygame.com
 Git page for original game files:
 https://github.com/dmcinnes/dead-valley
 
-### Running the Game
-
-Opening index.html locally in a browser will not work; you will need to set up a web server. 
-
-Easy solution for Chrome is Web Server for Chrome:
-https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
+===========
 
 License
 -------
