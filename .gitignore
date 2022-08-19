@@ -1,2 +1,5 @@
 build
 public
+assets/gauge-needle.png-autosave.kra
+*.kra~
+*.png~
