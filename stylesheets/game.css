@@ -550,14 +550,14 @@ a {
   position: absolute;
   width: 24px;
   height: 87px;
-  left: 59px;
-  bottom: -28px;
+  left: 78px;
+  bottom: -12px;
   background-image:url(../assets/gauge-needle.png);
-  -moz-transform-origin: 8px 50px;
-  -webkit-transform-origin: 8px 50px;
-  -o-transform-origin: 8px 50px;
-  -ms-transform-origin: 8px 50px;
-  transform-origin: 8px 50px;
+  -moz-transform-origin: 12px 75px;
+  -webkit-transform-origin: 12px 75px;
+  -o-transform-origin: 12px 75px;
+  -ms-transform-origin: 12px 75px;
+  transform-origin: 12px 75px;
 }
 
 #check-engine-light {
