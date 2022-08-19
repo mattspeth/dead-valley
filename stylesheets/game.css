@@ -563,8 +563,8 @@ a {
 #check-engine-light {
   display: none;
   position: absolute;
-  width: 45px;
-  height: 31px;
+  width: 90px;
+  height: 62px;
   left: 10px;
   top: 110px;
   background-image:url(../assets/check-engine.png);
@@ -572,7 +572,7 @@ a {
 }
 
 #check-engine-light.lit {
-  background-position:45px 0px; 
+  background-position:90px 0px; 
 }
 
 #low-fuel-light {
